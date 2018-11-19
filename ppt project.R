@@ -89,4 +89,4 @@ my_pres<-
   ph_with_text(type = "sldNum", str = "8" )  %>%
 
 
-print(my_pres, target = "blank.pptx") 
+print(my_pres, target = "market.pptx") 
